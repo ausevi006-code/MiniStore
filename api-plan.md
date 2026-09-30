@@ -1,1 +1,2 @@
+# План API
 GET /products
