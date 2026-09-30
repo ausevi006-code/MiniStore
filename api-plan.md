@@ -1,2 +1,2 @@
 # План API
-GET /products
+GET /products?limit=20
